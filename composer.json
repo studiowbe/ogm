@@ -1,7 +1,8 @@
 {
   "name": "studiow/ogm",
   "description": "Overschrijving met gestructureerde medeling",
-  "type": "project",
+  "license": "MIT",
+  "type": "library",
   "authors": [
     {
       "name": "Willem Wollebrants",
